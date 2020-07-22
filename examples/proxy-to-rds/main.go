@@ -6,6 +6,7 @@ import (
 	"log"
 	"time"
 
+	_ "github.com/denisenkom/go-mssqldb"
 	"github.com/paujim/sshTunnel/pkg/tunnel"
 )
 
